@@ -1,6 +1,6 @@
 img
 {
-    width: 100px;
+    height: 100px;
 }
 body
 {
@@ -12,6 +12,15 @@ body
 a
 {
     color: black;
-    font-family: 'Arial';
+    font-family: 'New Times Roman';
     font-size: 50px;
+}
+iframe
+{
+    height: 200px
+}
+button
+{
+    height:100px;
+    width:200px;
 }
